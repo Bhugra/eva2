@@ -19,4 +19,7 @@ ros2 launch urdf_tutorial display.launch.py model:=/path/to/eva2_0_description/u
 - [ ] P1-T2: Basic servo control node
 - [ ] P4: FK node, motion planning, arm controllers
 
+
+
+
 **Note:** Things shown here are subjected to change
