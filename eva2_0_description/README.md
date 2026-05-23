@@ -7,7 +7,10 @@
 - `urdf/eva2_0.urdf` — Complete EVA 2.0 robot URDF (base, torso, both arms, head + Kinect)
 
 ## Visualize
-ros2 launch urdf_tutorial display.launch.py model:=/path/to/eva2_0_description/urdf/eva2_0.urdf
+- ros2 launch urdf_tutorial display.launch.py model:=/path/to/eva2_0_description/urdf/eva2_0.urdf
+
+  
+- <img src="output.gif" alt="EVA 2.0 Demo" width="800"/>
 
 ## Joint Structure
 - Left arm: shoulder_pan → shoulder_lift → elbow → wrist_roll → wrist_pitch
